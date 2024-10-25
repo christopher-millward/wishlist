@@ -34,7 +34,7 @@ const items = [{
     "id": 5,
     "name":"Hues and Clues",
     "price":"35",
-    "category":"Games",
+    "category":"Misc",
     "image":"./images/hues-and-clues.jpg",
     "url": "https://www.calendarclub.ca/products/hues-and-cues-prd202208796"
 },
@@ -82,7 +82,7 @@ const items = [{
     "id": 11,
     "name":"Converse (size 8.5)",
     "price":"75",
-    "category":"Fashion",
+    "category":"Misc",
     "image":"./images/converse.jpg",
     "url": "https://www.sportchek.ca/en/pdp/converse-men-s-chuck-taylor-all-star-ox-low-top-casual-shoes-sneakers-70272176f.331505160.html"
 },
@@ -125,5 +125,13 @@ const items = [{
     "category":"Gift Card",
     "image":"./images/uber.jpg",
     "url": "https://www.walmart.ca/en/ip/uber-cobranded-25-egift-card-email-delivery/6000206061197"
+},
+{
+    "id": 17,
+    "name":"Weighted Blanket",
+    "price":"35",
+    "category":"Misc",
+    "image":"./images/weighted-blanket.jpg",
+    "url": "https://en.sleepcountry.ca/products/blanquil-weighted-blanket.html"
 }
 ]
