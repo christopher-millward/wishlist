@@ -112,26 +112,18 @@ const items = [{
 },
 {
     "id": 15,
-    "name":"Spotify Gift Card",
-    "price":"30",
-    "category":"Gift Card",
-    "image":"./images/spotify.jpg",
-    "url": "https://www.walmart.ca/en/ip/Spotify-30-Gift-Card-Digital-Code/6000205858300"
-},
-{
-    "id": 16,
-    "name":"Uber Gift Card",
-    "price":"25",
-    "category":"Gift Card",
-    "image":"./images/uber.jpg",
-    "url": "https://www.walmart.ca/en/ip/uber-cobranded-25-egift-card-email-delivery/6000206061197"
-},
-{
-    "id": 17,
     "name":"Weighted Blanket",
     "price":"35",
     "category":"Misc",
     "image":"./images/weighted-blanket.jpg",
     "url": "https://en.sleepcountry.ca/products/blanquil-weighted-blanket.html"
+},
+{
+    "id": 16,
+    "name":"Meat Grinder",
+    "price":"40",
+    "category":"Kitchen",
+    "image":"./images/meat-grinder.jpg",
+    "url": "https://www.amazon.ca/Grinder-Stainless-Powerful-Effortless-Vegetables/dp/B07MWZ6NCV/"
 }
 ]
