@@ -47,14 +47,6 @@ const items = [{
     "url": "https://www.amazon.ca/Algorithm-Design-Manual-Steven-Skiena/dp/3030542556/"
 },
 {
-    "id": 7,
-    "name":"Kodak's Ergonomic Design for People at Work",
-    "price":"242",
-    "category":"Books",
-    "image":"./images/kodak.jpg",
-    "url": "https://www.amazon.ca/Kodaks-Ergonomic-Design-People-Work/dp/0471418633"
-},
-{
     "id": 8,
     "name":"AMA Guide to the Evaluation of Disease and Injury Causation",
     "price":"78",
