@@ -2,7 +2,7 @@ const items = [{
     "id": 1,
     "name":"Klein Bottle (big)",
     "price":"73",
-    "category":"Trinkets",
+    "category":"Nerd stuff",
     "image":"./images/klein-bottle.jpg",
     "url": "https://www.kleinbottle.com/bigclassicalklein.htm"
 },
@@ -10,7 +10,7 @@ const items = [{
     "id": 2,
     "name":"Pythagoras Cup",
     "price":"25",
-    "category":"Trinkets",
+    "category":"Nerd stuff",
     "image":"./images/pythagoras-cup.jpg",
     "url": "https://www.etsy.com/ca/listing/1165278110/pythagorean-cup"
 },
@@ -89,7 +89,7 @@ const items = [{
 {
     "id": 13,
     "name":"Laptop Stand",
-    "price":"33",
+    "price":"15",
     "category":"Tech",
     "image":"./images/laptop-stand.jpg",
     "url": "https://www.amazon.ca/OMOTON-Ergonomic-Adjustable-Compatible-iPad%EF%BC%8810-15-6/dp/B0B6V32P8V/ref=sr_1_4?th=1"
