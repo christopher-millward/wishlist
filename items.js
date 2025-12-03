@@ -83,7 +83,7 @@ const items = [{
     "name":"Fine Mesh Chinois",
     "price":"100",
     "category":"Kitchen",
-    "image":"./images/food-thermometer.jpg",
+    "image":"./images/fine-mesh-chinois.jpg",
     "url": "https://www.amazon.ca/Premium-Stainless-Reinforced-Chinois-Strainer/dp/B0CVLDXBBY/"
 },
 {
